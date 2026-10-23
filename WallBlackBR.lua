@@ -1,9 +1,3 @@
-Aqui está um script único, pronto para copiar e colar no Roblox Studio. Ele inclui menu arrastável, minimizar, velocidade com botão Aplicar, Super Pulo ON/OFF, pontos de teleporte com salvar/renomear/excluir, configurações e encerramento com limpeza de conexões. O Auto Collect foi removido.
-
-Cole como um `LocalScript` em `StarterPlayer > StarterPlayerScripts`.
-
-lua
-```
 
 --[[
     WallBlackBR - Menu Universal
